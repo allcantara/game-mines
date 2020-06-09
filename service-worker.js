@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/campo-minado-web/precache-manifest.91b6adf1296bfd38f183d1b633257b14.js"
+  "/campo-minado-web/precache-manifest.4580d80f9a0798354cf74b01b30e8fe2.js"
 );
 
 self.addEventListener('message', (event) => {

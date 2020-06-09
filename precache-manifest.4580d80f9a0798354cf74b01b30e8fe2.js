@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e33650435f22498f2ba20a834cd15760",
+    "revision": "04fd3be107383e51a810533bf8512f6d",
     "url": "/campo-minado-web/index.html"
   },
   {
