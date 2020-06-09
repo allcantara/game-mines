@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/campo-minado-web/static/css/main.1da438e9.chunk.css",
+    "main.css": "/campo-minado-web/static/css/main.db167166.chunk.css",
     "main.js": "/campo-minado-web/static/js/main.c7f5c9ce.chunk.js",
     "main.js.map": "/campo-minado-web/static/js/main.c7f5c9ce.chunk.js.map",
     "runtime-main.js": "/campo-minado-web/static/js/runtime-main.fd4781e5.js",
@@ -8,15 +8,15 @@
     "static/js/2.83ff8687.chunk.js": "/campo-minado-web/static/js/2.83ff8687.chunk.js",
     "static/js/2.83ff8687.chunk.js.map": "/campo-minado-web/static/js/2.83ff8687.chunk.js.map",
     "index.html": "/campo-minado-web/index.html",
-    "precache-manifest.4580d80f9a0798354cf74b01b30e8fe2.js": "/campo-minado-web/precache-manifest.4580d80f9a0798354cf74b01b30e8fe2.js",
+    "precache-manifest.aec257caa019d7863d9dc0a4940c3d38.js": "/campo-minado-web/precache-manifest.aec257caa019d7863d9dc0a4940c3d38.js",
     "service-worker.js": "/campo-minado-web/service-worker.js",
-    "static/css/main.1da438e9.chunk.css.map": "/campo-minado-web/static/css/main.1da438e9.chunk.css.map",
+    "static/css/main.db167166.chunk.css.map": "/campo-minado-web/static/css/main.db167166.chunk.css.map",
     "static/js/2.83ff8687.chunk.js.LICENSE.txt": "/campo-minado-web/static/js/2.83ff8687.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.fd4781e5.js",
     "static/js/2.83ff8687.chunk.js",
-    "static/css/main.1da438e9.chunk.css",
+    "static/css/main.db167166.chunk.css",
     "static/js/main.c7f5c9ce.chunk.js"
   ]
 }

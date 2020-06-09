@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "04fd3be107383e51a810533bf8512f6d",
+    "revision": "7b09039033053eb2e0d67ff91d2dbd16",
     "url": "/campo-minado-web/index.html"
   },
   {
-    "revision": "c5ab2231927321e0b15b",
-    "url": "/campo-minado-web/static/css/main.1da438e9.chunk.css"
+    "revision": "84c42f4817de82c46bf5",
+    "url": "/campo-minado-web/static/css/main.db167166.chunk.css"
   },
   {
     "revision": "e66dd86f4be703ab69ef",
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/campo-minado-web/static/js/2.83ff8687.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "c5ab2231927321e0b15b",
+    "revision": "84c42f4817de82c46bf5",
     "url": "/campo-minado-web/static/js/main.c7f5c9ce.chunk.js"
   },
   {
