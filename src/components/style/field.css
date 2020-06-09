@@ -1,0 +1,36 @@
+.field {
+  height: 35px;
+  width: 35px;
+  border-width: 5px;
+  padding: 0;
+}
+
+.field:focus {
+  outline: none;
+}
+
+.regular {
+  background-color: #999;
+  border-left-color: #ccc;
+  border-top-color: #ccc;
+  border-right-color: #333;
+  border-bottom-color: #333;
+}
+
+.opened {
+  background-color: #999;
+  border-color: #777;
+}
+
+.label {
+  font-weight: bold;
+  font-size: 15px;
+}
+
+
+.exploded {
+  background-color: red;
+  border-color: red;
+}
+
+.flagged {}

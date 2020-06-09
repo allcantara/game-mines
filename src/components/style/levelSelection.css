@@ -1,0 +1,37 @@
+.frame {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.container-frame {
+  background-color: #fff;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 15px;
+}
+
+.title {
+  font-size: 30px;
+  font-weight: bold;
+  padding: 10px;
+}
+
+.button-label-frame {
+  font-size: 20px;
+  color: #fff;
+  font-weight: bold;
+}
+
+.bg-easy {
+  background-color: #49B65D;
+}
+
+.bg-normal {
+  background-color: #2765F7;
+}
+
+.bg-hard {
+  background-color: #F26337;
+}

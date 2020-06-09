@@ -1,0 +1,35 @@
+.mine-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.core-mine {
+  height: 12px;
+  width: 12px;
+  border-radius: 10px;
+  background-color: #000;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.line {
+  position: absolute;
+  height: 2px;
+  width: 18px;
+  border-radius: 3px;
+  background-color: #000;
+}
+
+.line-1 {
+  rotate: 45deg;
+}
+
+.line-2 {
+  rotate: 90deg;
+}
+
+.line-3 {
+  rotate: 135deg;
+}
